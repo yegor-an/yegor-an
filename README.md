@@ -22,4 +22,4 @@
 
 ## Моя статистика на GitHub
 
-![Total Repositories](https://img.shields.io/badge/Repositories-2-blue
+![Total Repositories](https://img.shields.io/badge/Repositories-2-blue)
