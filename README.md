@@ -8,7 +8,7 @@
 
 ## Мои навыки и инструменты
 
-![HTML&CSS](https://img.shields.io/badge/HTML%26CSS-%23FF9999?style=flat-square&logo=html5&logoColor=white)
+![HTML&CSS](https://img.shields.io/badge/HTML%26CSS-%23FF9999?style=flat-square&logo=html5&logoColor=gray)
 ![PyCharm](https://img.shields.io/badge/PyCharm-%23FF9999?style=flat-square&logo=pycharm&logoColor=white)
 ![DevTools](https://img.shields.io/badge/DevTools-%23FF9999?style=flat-square&logo=google-chrome&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-%23FF9999?style=flat-square&logo=MySQL&logoColor=white)
