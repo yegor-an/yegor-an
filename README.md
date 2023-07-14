@@ -19,6 +19,8 @@
 ![Swagger](https://img.shields.io/badge/Swagger-%2300599C?style=flat-square&logo=swagger&logoColor=white)
 
 ![Charles Proxy](https://img.shields.io/badge/CharlesProxy-%2300599C?style=flat-square&logo=charles-proxy&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%2300599C?style=flat-square&logo=python&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-%2300599C?style=flat-square&logo=sqlite&logoColor=white)
 
 ## Моя статистика на GitHub
 
