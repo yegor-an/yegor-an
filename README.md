@@ -1,4 +1,5 @@
-# [Меня зовут Егор!](https://img.shields.io/endpoint?style=plastic&logoColor=orange&label=%D0%9F%D0%A0%D0%98%D0%92%D0%95%D0%A2&color=blue) 👋
+# ![Меня зовут Егор](https://img.shields.io/endpoint?style=plastic&logoColor=orange&label=%D0%9F%D0%A0%D0%98%D0%92%D0%95%D0%A2&color=blue)
+ 👋
 
 Я начинающий тестировшик из Тюмени.
 
