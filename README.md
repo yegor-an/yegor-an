@@ -23,4 +23,5 @@
 ## Моя статистика на GitHub
 
 ![Total Repositories](https://img.shields.io/badge/Repositories-2-blue)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?yegor-an=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
