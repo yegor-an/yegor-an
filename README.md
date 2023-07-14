@@ -4,7 +4,7 @@
 
 📫 Как со мной связаться: [Telegram](https://t.me/yegor_an).
 <a href="https://www.linkedin.com/in/yegor-an/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://www.linkedin.com/in/yegor-an/" target="_blank"><img src="https://img.shields.io/badge/Telegram%230077B5.svg?&style=flat-square&logo=telegram&logoColor=white" alt="Telegram"></a>
+([Source](https://www.flaticon.com/free-icon/telegram_2111644)) ```markdown ![Telegram]
 
 ## Мои навыки и инструменты
 
