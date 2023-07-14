@@ -9,7 +9,6 @@
 ![HTML&CSS](https://img.shields.io/badge/HTML%26CSS-%2300599C?style=flat-square&logo=html5&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-%2300599C?style=flat-square&logo=pycharm&logoColor=white)
 ![DevTools](https://img.shields.io/badge/DevTools-%2300599C?style=flat-square&logo=google-chrome&logoColor=white)
-
 ![SQL](https://img.shields.io/badge/SQL-%2300599C?style=flat-square&logo=MySQL&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/AndroidStudio-%2300599C?style=flat-square&logo=android-studio&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-%2300599C?style=flat-square&logo=jira&logoColor=white)
