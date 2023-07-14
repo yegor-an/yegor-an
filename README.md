@@ -9,18 +9,18 @@
 ## Мои навыки и инструменты
 
 ![HTML&CSS](https://img.shields.io/badge/HTML%26CSS-%23FF9999?style=flat-square&logo=html5&logoColor=gray)
-![PyCharm](https://img.shields.io/badge/PyCharm-%23FF9999?style=flat-square&logo=pycharm&logoColor=white)
-![DevTools](https://img.shields.io/badge/DevTools-%23FF9999?style=flat-square&logo=google-chrome&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-%23FF9999?style=flat-square&logo=MySQL&logoColor=white)
-![Android Studio](https://img.shields.io/badge/AndroidStudio-%23FF9999?style=flat-square&logo=android-studio&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-%23FF9999?style=flat-square&logo=jira&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-%23FF9999?style=flat-square&logo=pycharm&logoColor=gray)
+![DevTools](https://img.shields.io/badge/DevTools-%23FF9999?style=flat-square&logo=google-chrome&logoColor=gray)
+![SQL](https://img.shields.io/badge/SQL-%23FF9999?style=flat-square&logo=MySQL&logoColor=gray)
+![Android Studio](https://img.shields.io/badge/AndroidStudio-%23FF9999?style=flat-square&logo=android-studio&logoColor=gray)
+![Jira](https://img.shields.io/badge/Jira-%23FF9999?style=flat-square&logo=jira&logoColor=gray)
 
-![Postman](https://img.shields.io/badge/Postman-%23FF9999?style=flat-square&logo=postman&logoColor=white)
-![REST API](https://img.shields.io/badge/RESTAPI-%23FF9999?style=flat-square&logo=rest-api&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-%23FF9999?style=flat-square&logo=swagger&logoColor=white)
-![Charles Proxy](https://img.shields.io/badge/CharlesProxy-%23FF9999?style=flat-square&logo=charles-proxy&logoColor=white)
-![Python](https://img.shields.io/badge/Python-%23FF9999?style=flat-square&logo=python&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-%23FF9999?style=flat-square&logo=sqlite&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-%23FF9999?style=flat-square&logo=postman&logoColor=gray)
+![REST API](https://img.shields.io/badge/RESTAPI-%23FF9999?style=flat-square&logo=rest-api&logoColor=gray)
+![Swagger](https://img.shields.io/badge/Swagger-%23FF9999?style=flat-square&logo=swagger&logoColor=gray)
+![Charles Proxy](https://img.shields.io/badge/CharlesProxy-%23FF9999?style=flat-square&logo=charles-proxy&logoColor=gray)
+![Python](https://img.shields.io/badge/Python-%23FF9999?style=flat-square&logo=python&logoColor=gray)
+![SQLite](https://img.shields.io/badge/SQLite-%23FF9999?style=flat-square&logo=sqlite&logoColor=gray)
 
 ## Моя статистика на GitHub
 
