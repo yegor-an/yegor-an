@@ -22,4 +22,5 @@
 
 ## Моя статистика на GitHub
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
 ![Total Repositories](https://img.shields.io/badge/Repositories-2-blue)
