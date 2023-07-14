@@ -22,4 +22,4 @@
 
 ## Моя статистика на GitHub
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=yegor-an&show_icons=true&theme=radical)
+![Total Repositories](https://img.shields.io/badge/Repositories-2-blue
