@@ -3,8 +3,6 @@
 Я начинающий тестировщик из Тюмени. А еще я пишу [Телеграм-боты](https://github.com/yegor-an/Bots) на Python.
 
 📫 Как со мной связаться: [Telegram](https://t.me/yegor_an).
-<a href="https://www.linkedin.com/in/yegor-an/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-([Source](https://www.flaticon.com/free-icon/telegram_2111644)) ```markdown ![Telegram]
 
 ## Мои навыки и инструменты
 
