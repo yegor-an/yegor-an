@@ -13,4 +13,4 @@
 
 ## Моя статистика на GitHub
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Yegor&show_icons=true&theme=radical)
