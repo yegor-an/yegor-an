@@ -8,6 +8,7 @@
 
 ## Мои навыки и инструменты
 
+![HTML&CSS](https://img.shields.io/badge/HTML%26CSS-%23FF9999?style=for-the-badge&logo=html5&logoColor=gray)
 ![HTML&CSS](https://img.shields.io/badge/HTML%26CSS-%23FF9999?style=flat-square&logo=html5&logoColor=gray)
 ![PyCharm](https://img.shields.io/badge/PyCharm-%23FF9999?style=flat-square&logo=pycharm&logoColor=gray)
 ![DevTools](https://img.shields.io/badge/DevTools-%23FF9999?style=flat-square&logo=google-chrome&logoColor=gray)
