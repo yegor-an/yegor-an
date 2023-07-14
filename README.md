@@ -24,5 +24,5 @@
 
 ![Total Repositories](https://img.shields.io/badge/Repositories-2-blue)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laxmena&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yegor-an&layout=compact)
 
