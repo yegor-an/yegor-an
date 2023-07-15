@@ -1,4 +1,4 @@
-# ![Alt Text](https://i.imgur.com/jvLmX4D.gif)
+# ![Alt Text](https://i.imgur.com/YVOhCPR.gif)![Alt Text](https://i.imgur.com/YVOhCPR.gif)
 
 Привет, меня зовут Егор!👋 Я начинающий тестировщик из Тюмени. А еще я пишу [Телеграм-боты](https://github.com/yegor-an/Bots) на Python.
 
