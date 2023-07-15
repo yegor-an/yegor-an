@@ -8,19 +8,19 @@
 
 ## Мои навыки и инструменты
 
-![HTML&CSS](https://img.shields.io/badge/HTML%26CSS-%23008000?style=for-the-badge&logo=html5&logoColor=gray)
-![PyCharm](https://img.shields.io/badge/PyCharm-%23FF9999?style=for-the-badge&logo=pycharm&logoColor=gray)
-![DevTools](https://img.shields.io/badge/DevTools-%23FF9999?style=for-the-badge&logo=google-chrome&logoColor=gray)
-![SQL](https://img.shields.io/badge/SQL-%23FF9999?style=for-the-badge&logo=MySQL&logoColor=gray)
-![Android Studio](https://img.shields.io/badge/AndroidStudio-%23FF9999?style=for-the-badge&logo=android-studio&logoColor=gray)
-![Jira](https://img.shields.io/badge/Jira-%23FF9999?style=for-the-badge&logo=jira&logoColor=gray)
+![HTML&CSS](https://img.shields.io/badge/HTML%26CSS-%23008000?style=for-the-badge&logo=html5&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-%23008000?style=for-the-badge&logo=pycharm&logoColor=white)
+![DevTools](https://img.shields.io/badge/DevTools-%23008000?style=for-the-badge&logo=google-chrome&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-%23008000?style=for-the-badge&logo=MySQL&logoColor=white)
+![Android Studio](https://img.shields.io/badge/AndroidStudio-%23008000?style=for-the-badge&logo=android-studio&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-%23FF230080009999?style=for-the-badge&logo=jira&logoColor=white)
 
-![Postman](https://img.shields.io/badge/Postman-%23FF9999?style=for-the-badge&logo=postman&logoColor=gray)
-![REST API](https://img.shields.io/badge/RESTAPI-%23FF9999?style=for-the-badge&logo=rest-api&logoColor=gray)
-![Swagger](https://img.shields.io/badge/Swagger-%23FF9999?style=for-the-badge&logo=swagger&logoColor=gray)
-![Charles Proxy](https://img.shields.io/badge/CharlesProxy-%23FF9999?style=for-the-badge&logo=charles-proxy&logoColor=gray)
-![Python](https://img.shields.io/badge/Python-%23FF9999?style=for-the-badge&logo=python&logoColor=gray)
-![SQLite](https://img.shields.io/badge/SQLite-%23FF9999?style=for-the-badge&logo=sqlite&logoColor=gray)
+![Postman](https://img.shields.io/badge/Postman-%23008000?style=for-the-badge&logo=postman&logoColor=white)
+![REST API](https://img.shields.io/badge/RESTAPI-%23008000?style=for-the-badge&logo=rest-api&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-%23008000?style=for-the-badge&logo=swagger&logoColor=white)
+![Charles Proxy](https://img.shields.io/badge/CharlesProxy-%23008000?style=for-the-badge&logo=charles-proxy&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%23008000?style=for-the-badge&logo=python&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-%23008000?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ## Моя статистика на GitHub
 
