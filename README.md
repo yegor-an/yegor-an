@@ -1,4 +1,3 @@
-![Alt Text](https://i.imgur.com/klwfljn.gif)
 # Привет, меня зовут Егор!👋
 Я начинающий тестировщик из Тюмени. А еще я пишу [Телеграм-боты](https://t.me/yegor_an) на Python.
 
@@ -30,3 +29,4 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yegor-an&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
+![Alt Text](https://i.imgur.com/klwfljn.gif)
