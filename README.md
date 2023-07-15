@@ -27,8 +27,8 @@
 
 ## Моя статистика на GitHub
 
-<img src="https://img.shields.io/badge/Repositories-5-blue" width="200" height="40">
-![Total Stars](https://img.shields.io/badge/Stars-1-blue)
+<img src="https://img.shields.io/badge/Repositories-5-blue" width="100" height="40">
+<img src="https://img.shields.io/badge/Stars-1-blue" width="100" height="40">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yegor-an&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
