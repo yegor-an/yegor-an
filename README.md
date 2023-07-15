@@ -1,8 +1,8 @@
-# Привет, меня зовут Егор!👋
+# ![Alt Text](https://i.imgur.com/jvLmX4D.gif)
 
-Я начинающий тестировщик из Тюмени. А еще я пишу [Телеграм-боты](https://github.com/yegor-an/Bots) на Python.
+Привет, меня зовут Егор!👋 Я начинающий тестировщик из Тюмени. А еще я пишу [Телеграм-боты](https://github.com/yegor-an/Bots) на Python.
 
-![Alt Text](https://i.imgur.com/jvLmX4D.gif)
+
 
 <a href="https://t.me/yegor_an"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" width="100"></a>
 <a href="https://www.linkedin.com/in/yegor-an/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="100"></a>
