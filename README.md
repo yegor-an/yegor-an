@@ -13,7 +13,7 @@
 ![DevTools](https://img.shields.io/badge/DevTools-%23008000?style=for-the-badge&logo=google-chrome&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-%23008000?style=for-the-badge&logo=MySQL&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/AndroidStudio-%23008000?style=for-the-badge&logo=android-studio&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-%23FF230080009999?style=for-the-badge&logo=jira&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-%23008000?style=for-the-badge&logo=jira&logoColor=white)
 
 ![Postman](https://img.shields.io/badge/Postman-%23008000?style=for-the-badge&logo=postman&logoColor=white)
 ![REST API](https://img.shields.io/badge/RESTAPI-%23008000?style=for-the-badge&logo=rest-api&logoColor=white)
