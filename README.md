@@ -21,6 +21,7 @@
 ![Charles Proxy](https://img.shields.io/badge/CharlesProxy-%23008000?style=for-the-badge&logo=charles-proxy&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-%23008000?style=for-the-badge&logo=python&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-%23008000?style=for-the-badge&logo=sqlite&logoColor=white)
+![GIT](https://img.shields.io/badge/GIT-%23008000?style=for-the-badge&logo=git&logoColor=white)
 
 ![Alt Text](https://i.imgur.com/klwfljn.gif)
 
