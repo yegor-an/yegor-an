@@ -22,6 +22,8 @@
 ![Python](https://img.shields.io/badge/Python-%23008000?style=for-the-badge&logo=python&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-%23008000?style=for-the-badge&logo=sqlite&logoColor=white)
 
+![Alt Text](https://i.imgur.com/klwfljn.gif)
+
 ## Моя статистика на GitHub
 
 ![Total Repositories](https://img.shields.io/badge/Repositories-5-blue)
@@ -29,4 +31,4 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yegor-an&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
-![Alt Text](https://i.imgur.com/klwfljn.gif)
+
