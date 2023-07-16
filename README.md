@@ -17,7 +17,7 @@
 ![Python](https://img.shields.io/badge/Python-%23008000?style=for-the-badge&logo=python&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-%23008000?style=for-the-badge&logo=sqlite&logoColor=white)
 ![GIT](https://img.shields.io/badge/GIT-%23008000?style=for-the-badge&logo=git&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-%23008000?style=for-the-badge&logo=chatgpt&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-%23008000?style=for-the-badge&logo=openai&logoColor=white)
 
 ![Alt Text](https://i.imgur.com/klwfljn.gif)
 ## Мои мессенджеры и соцсети
