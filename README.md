@@ -10,6 +10,7 @@
 ![SQL](https://img.shields.io/badge/SQL-%23008000?style=for-the-badge&logo=MySQL&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-%23008000?style=for-the-badge&logo=postman&logoColor=white)
 ![REST API](https://img.shields.io/badge/RESTAPI-%23008000?style=for-the-badge&logo=rest-api&logoColor=white)
+
 ![Swagger](https://img.shields.io/badge/Swagger-%23008000?style=for-the-badge&logo=swagger&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-%23008000?style=for-the-badge&logo=python&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-%23008000?style=for-the-badge&logo=sqlite&logoColor=white)
