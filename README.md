@@ -33,6 +33,6 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yegor-an&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
-[![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Naereen&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+[![Yegor's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yegor-an&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
 
