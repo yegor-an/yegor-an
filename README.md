@@ -31,10 +31,10 @@
 
 <img src="https://img.shields.io/badge/Repositories-5-blue" width="110" height="20"> <img src="https://img.shields.io/badge/Stars-1-blue" width="65" height="20">
 
+[![Yegor's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yegor-an&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [![Yegor's github streak](https://github-readme-streak-stats.herokuapp.com/?user=yegor-an&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats) 
 
 
-[![Yegor's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yegor-an&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
