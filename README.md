@@ -19,7 +19,6 @@
 ![GIT](https://img.shields.io/badge/GIT-%23008000?style=for-the-badge&logo=git&logoColor=white)
 
 ![Alt Text](https://i.imgur.com/klwfljn.gif)
-
 ## Мои мессенджеры и соцсети
 
 <a href="https://t.me/yegor_an"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" width="100"></a>
