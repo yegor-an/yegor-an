@@ -10,4 +10,6 @@
 
 https://t.me/steamapibot
 
+Сообщество по английскому языку в ВК:
 
+https://vk.com/spoken_english
