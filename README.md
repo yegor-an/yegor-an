@@ -10,7 +10,7 @@
 
 https://t.me/steamapibot
 
-https://t.me/intrepetlybot
+https://t.me/anki_gram_bot
 
 https://t.me/t00d00bot
 
