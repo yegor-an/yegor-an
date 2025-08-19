@@ -14,6 +14,3 @@ https://t.me/anki_gram_bot
 
 https://t.me/t00d00bot
 
-Сообщество по английскому языку в ВК:
-
-https://vk.com/spoken_english
